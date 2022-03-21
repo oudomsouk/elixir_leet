@@ -3,6 +3,6 @@ defmodule Easy.Solution53Test do
   import Easy.Solution53
 
   test "should get sum" do
-    assert Easy.Solution53.max_sub_array([5, 4, -1, 7, 8]) == 23
+    assert max_sub_array([5, 4, -1, 7, 8]) == 23
   end
 end

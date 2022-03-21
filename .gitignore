@@ -24,3 +24,7 @@ elixir_leet-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+/.idea/
+
+elixir_leet.iml
